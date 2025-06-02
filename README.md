@@ -1,3 +1,12 @@
+#Alunos
+
+João Pedro Tomas Dominguito RM:562166
+Matheus Lara Carneiro RM:564049
+Disciplina: Data Structures and Algorithms
+Professor: Erick Toshio Yamamoto
+data : de 29/05/2025  até 02/06/2025
+
+
  GeoRelato – Sistema de Cadastro de Catástrofes Naturais
 GeoRelato é uma CLI em C que permite o registro e consulta de relatos sobre catástrofes naturais (enchentes, incêndios, deslizamentos etc.), ocorridas em um raio de até 10 km a partir de um ponto central definido pelo usuário. Ideal para projetos acadêmicos de Estrutura de Dados e Banco de Dados.
 
